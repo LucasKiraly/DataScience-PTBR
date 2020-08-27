@@ -1,6 +1,5 @@
 <h1 align="center">DataScience-PTBR</h1>
-Este repositório contém diversos projetos relacionados a área de Data Science
-
+Este repositório tem como objetivo demonstrar através de exemplos, exercícios e projetos o incrivel mundo da ciência de dados, 
 
 ### Features
 
