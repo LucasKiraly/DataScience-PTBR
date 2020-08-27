@@ -5,6 +5,6 @@
 
 - [x] Python :snake:
 - [x] Visualização de dados :bar_chart:
-- [x] Machine Learning :computer:
+- [x] Machine Learning :robot:
 - [x] Estatística
 
