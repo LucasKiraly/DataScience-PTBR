@@ -3,7 +3,7 @@
 
 ### Temas abordados
 
-- [x] Python
+- [x] Python :snake:
 - [x] Visualização de dados :bar_chart:
 - [x] Machine Learning
 - [x] Estatística
