@@ -4,7 +4,7 @@
 ### Temas abordados
 
 - [x] Python
-- [x] Visualização de dados
+- [x] Visualização de dados :bar_chart:
 - [x] Machine Learning
 - [x] Estatística
 
