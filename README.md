@@ -15,7 +15,7 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [https://gist.github.com/rxaviers/7360908](#Sobre)
+   * [Emotes](https://gist.github.com/rxaviers/7360908)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
