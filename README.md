@@ -1,5 +1,5 @@
 <h1 align="center">Data Science PT-BR</h1>
-<h3 align="center">:beginner:Este repositório tem como objetivo apresentar o incrível mundo da ciência de dados abordando seus diversos temas através de exemplos, exercícios e projetos utilizando a linguagem Python :snake: juntamente a plataforma Jupyer Notebook :orange_book:.:beginner:.</h3>
+<h3 align="center">:beginner:Este repositório tem como objetivo apresentar o incrível mundo da ciência de dados abordando seus diversos temas através de exemplos, exercícios e projetos utilizando a linguagem Python :snake: juntamente a plataforma Jupyer Notebook :orange_book:.</h3>
 
 
 
