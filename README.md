@@ -8,7 +8,7 @@
 
 - [x] Python :snake:
 - [x] Jupyter Notebook :orange_book:
-- [x] Visualização de dados :bar_chart:
+- [x] [Visualização de dados](https://github.com/LucasKiraly/DataScience-PTBR/tree/master/Visualização%20de%20dados):bar_chart:
 - [x] Machine Learning :robot:
 - [x] Estatística :chart_with_upwards_trend:
 - [x] [Emotes](https://gist.github.com/rxaviers/7360908)
