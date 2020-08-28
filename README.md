@@ -8,9 +8,9 @@
 
 <h3 align="center">:beginner: Este repositório tem como objetivo apresentar o incrível mundo da ciência de dados abordando seus diversos temas através de exemplos, exercícios e projetos utilizando a linguagem de programação Python juntamente a plataforma Jupyer Notebook.</h3>
 
-<p align="center">
+<i align="center">
   ![Alt text](https://user-images.githubusercontent.com/50464626/91492917-d6800100-e88c-11ea-971a-17674175a9db.png "Take your pill")
-</p>
+</i>
 
 ### Temas abordados
 
