@@ -11,6 +11,7 @@
 - [x] Visualização de dados :bar_chart:
 - [x] Machine Learning :robot:
 - [x] Estatística :chart_with_upwards_trend:
+- [x] [Emotes](https://gist.github.com/rxaviers/7360908)
 
 Tabela de conteúdos
 =================
