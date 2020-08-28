@@ -4,6 +4,7 @@
 ### Temas abordados
 
 - [x] Python :snake:
+- [x] Jupyter Notebook :orange_book:
 - [x] Visualização de dados :bar_chart:
 - [x] Machine Learning :robot:
 - [x] Estatística :chart_with_upwards_trend:
