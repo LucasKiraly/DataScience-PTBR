@@ -1,4 +1,4 @@
-<h1 align="center">Data Science Brasil/h1>
+<h1 align="center">Data Science PT-BR</h1>
 <p align="center">:beginner:Este repositório tem como objetivo apresentar o incrivel mundo da ciência de dados abordando seus diversos assuntos através de exemplos, exercícios e projetos elaborados através da linguagem Python juntamente ao Jupyter Notebook :beginner:.</p>
 
 ### Temas abordados
