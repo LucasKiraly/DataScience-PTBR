@@ -2,9 +2,9 @@
 <p align="center">:beginner:Este repositório tem como objetivo apresentar o incrivel mundo da ciência de dados abordando seus diversos assuntos através de exemplos, exercícios e projetos elaborados através da linguagem Python juntamente ao Jupyter Notebook :beginner:.</p>
 
 ### <p align="center">Temas abordados</p>
-<p align="center">
-- [x] Python :snake:
+
+<p align="center">- [x] Python :snake: </p>
 - [x] Visualização de dados :bar_chart:
 - [x] Machine Learning :robot:
 - [x] Estatística :chart_with_upwards_trend:
-</p>
+
