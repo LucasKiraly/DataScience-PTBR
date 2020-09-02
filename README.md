@@ -10,6 +10,6 @@
 ### Temas abordados
 
 - [x] [Visualização de dados](https://github.com/LucasKiraly/DataScience-PTBR/tree/master/Visualização%20de%20dados) :bar_chart:
-- [x] Machine Learning :robot:
+- [x] [Machine Learning] (https://github.com/LucasKiraly/DataScience-PTBR/tree/master/Machine%20Learning) :robot:
 - [x] Matemática e Estatística :chart_with_upwards_trend:
 
