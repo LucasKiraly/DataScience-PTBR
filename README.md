@@ -3,6 +3,6 @@
 
 <img src="https://img.shields.io/static/v1?label=DataScience&message=Portugues&color=e07a5f&style=for-the-badge&logo=GitHub">
 
-### Welcome to my repository!
+### Bem-vindo ao meu repositório!
 
-This repository aims to present the incredible world of data science through examples, exercises and projects using the Python programming language.
+Este repositório contém diversos projetos relacionados a área de Data Science.
