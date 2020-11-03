@@ -1,15 +1,8 @@
 
-<h1 align="center">Data Science PT-BR</h1>
+<h1 align="left">:cherries:Data Science</h1>
 
-<p align="center">
-  <img width="560" height="400" src="https://user-images.githubusercontent.com/50464626/91507024-11446200-e8aa-11ea-8f7a-392c14e8e56c.jpg">
-</p>
+<img src="https://img.shields.io/static/v1?label=DataScience&message=Portugues&color=e07a5f&style=for-the-badge&logo=GitHub">
 
-<h3 align="center">:beginner: Este repositório tem como objetivo apresentar o incrível mundo da ciência de dados abordando seus diversos temas através de exemplos, exercícios e projetos utilizando a linguagem de programação Python.</h3>
+### Bem-vindo ao meu repositório!
 
-### Temas abordados
-
-- [x] [Visualização de dados](https://github.com/LucasKiraly/DataScience-PTBR/tree/master/Visualização%20de%20dados) :bar_chart:
-- [x] [Machine Learning](https://github.com/LucasKiraly/DataScience-PTBR/tree/master/Machine%20Learning) :robot:
-- [x] Matemática e Estatística :chart_with_upwards_trend:
-
+Este repositório contém diversos projetos relacionados a área de Data Science.
