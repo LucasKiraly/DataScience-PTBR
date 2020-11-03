@@ -6,3 +6,9 @@
 ### Bem-vindo ao meu repositório!
 
 Este repositório contém diversos projetos relacionados a área de Data Science.
+
+# :cherries:Projetos
+
+<!--ts-->
+  * [Prevenção ao suicídio](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Projects)
+<!--te-->
