@@ -7,7 +7,7 @@
 
 Este repositório contém diversos projetos relacionados a área de Data Science.
 
-# :cherries:Projetos
+# :cherries:Projetos TESTE
 
 <!--ts-->
   * [Prevenção ao suicídio](https://github.com/LucasKiraly/DataScience-PTBR/blob/master/Visualização%20de%20dados/Projeto%20-%20Prevenção%20ao%20suicídio.ipynb)
